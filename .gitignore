@@ -1,3 +1,34 @@
+# Maven #
+#########
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Jetbrains #
+#############
+*.iml
+
+# IntelliJ
+out/
+
+## Directory-based project format:
+.idea/
+# if you remove the above rule, at least ignore the following:
+
+# User-specific stuff:
+# .idea/workspace.xml
+# .idea/tasks.xml
+# .idea/dictionaries
+
+# OSX #
+#######
+.DS_Store
+.AppleDouble
+.LSOverride
+
 # Compiled class file
 *.class
 
